@@ -21,6 +21,6 @@ function Greeting_function(name) {
     console.log(greeting + " " + name); // Call a non-existent variable to cause an error
 }
 
-Greeting_function("John"); // Call the function to trigger the error
+Greeting_function("James"); // Call the function to trigger the error
 
     
